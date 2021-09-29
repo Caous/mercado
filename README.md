@@ -23,7 +23,6 @@ Projeto irá simular um sistema de um mercado com permissões, cadastros, ediç�
 
 ### <h5> [Versionamento de projeto] </h5>
 ![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
-![Azure](https://img.shields.io/badge/microsoft%20azure-000000?style=for-the-badge&logo=microsoft-azure&logoColor=blue)
 </br></br></br></br>
 
 
